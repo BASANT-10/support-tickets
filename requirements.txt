@@ -1,1 +1,5 @@
-streamlit
+# requirements.txt  – minimal example
+streamlit==1.36.0
+pandas==2.2.1
+matplotlib==3.9.0
+
